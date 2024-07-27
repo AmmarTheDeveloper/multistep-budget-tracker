@@ -36,7 +36,7 @@ The Multi-Step Budget Tracker is a web application designed to help users manage
 3. **Run the application:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
